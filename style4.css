@@ -1,0 +1,30 @@
+body{
+    background-color: #FED8B1;
+    margin: 0%
+}
+h2{
+    font-size: 150px;
+    text-align: center;
+    margin: 0%;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+.inicio{
+    font-size: 35px;
+}
+.sobre{
+    font-size: 35px;
+}
+.imagens{
+    display: flex;
+    height: 400px ;
+    width: 250px;
+}
+.ima2{
+    display: flex;
+   
+}
